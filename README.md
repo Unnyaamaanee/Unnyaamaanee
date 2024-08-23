@@ -56,14 +56,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Unnyaamaanee/Unnyaamaanee/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/313e2v4u6l7xoi2syv6t7g5pqrwm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313e2v4u6l7xoi2syv6t7g5pqrwm&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313e2v4u6l7xoi2syv6t7g5pqrwm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=313e2v4u6l7xoi2syv6t7g5pqrwm&redirect=true)
 
 ###
