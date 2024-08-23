@@ -37,7 +37,7 @@
 
 ###
 
-<img align="right" height="164" src="https://f.ptcdn.info/598/013/000/1387625352-anigif-o.gif"  />
+<img align="right" height="250" src="https://f.ptcdn.info/598/013/000/1387625352-anigif-o.gif"  />
 
 ###
 
